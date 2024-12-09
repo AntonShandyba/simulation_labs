@@ -85,7 +85,7 @@ set count-kill number - count turtles
 
 <table>
 <thead>
-<tr><th>%-similar-wanted</th><th>Killed</th></tr>
+<tr><th>numbrt-of-ethnicities</th><th>Killed</th></tr>
 </thead>
 <tbody>
 <tr><td>2</td><td>126</td></tr>
